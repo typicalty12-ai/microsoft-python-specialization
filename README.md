@@ -2,7 +2,7 @@
 This repository tracks my progress through the Microsoft Python Specialization sequence, starting from the absolute basics to building core programming logic.
 
 ## Current Progress
-* **Course 1, Module 3:** Working with built-in functions, data type conversions, and organizing basic script logic.
+* **Course 1, Module 4:** Working with Data Structures.
 
 ## My Goals
 * **Academic Preparation:** Building a bulletproof programming foundation ahead of CS 111 (Program Design I) and engineering calculus at UIC this fall.
