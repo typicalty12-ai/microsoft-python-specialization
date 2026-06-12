@@ -2,7 +2,7 @@
 This repository tracks my progress through the Microsoft Python Specialization sequence, starting from the absolute basics to building core programming logic.
 
 ## Current Progress
-* **Course 1, Module 5:** Error handling and debugging.
+* **Course 1, Module 6:** Testing basics & version control.
 
 ## My Goals
 * **Academic Preparation:** Building a bulletproof programming foundation ahead of CS 111 (Program Design I) and engineering calculus at UIC this fall.
