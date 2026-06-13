@@ -1,5 +1,5 @@
-# Microsoft Python Specialization
-This repository tracks my progress through the Microsoft Python Specialization sequence, starting from the absolute basics to building core programming logic.
+# Microsoft Python Specialization Course
+This repository tracks my progress through the Microsoft Python Development Course, starting from the absolute basics to building core programming logic.
 
 ## Current Progress
 * **Course 1, Module 6:** Testing basics & version control.
