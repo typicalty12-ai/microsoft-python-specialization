@@ -2,7 +2,7 @@
 This repository tracks my progress through the Microsoft Python Development Course, starting from the absolute basics to building core programming logic.
 
 ## Current Progress
-* **Course 2, Module 1:** Testing basics & version control.
+* **Course 2, Module 1:** Data Analysis and Visualization.
 
 ## My Goals
 * **Academic Preparation:** Building a bulletproof programming foundation ahead of CS 111 (Program Design I) and engineering calculus at UIC this fall.
