@@ -2,7 +2,7 @@
 This repository tracks my progress through the Microsoft Python Development Course, starting from the absolute basics to building core programming logic.
 
 ## Current Progress
-* **Course 2, Module 5:** Introduction to machine learning
+* **Course 2, Module 5:** Introduction to Machine Learning
 ## My Goals
 * **Academic Preparation:** Building a bulletproof programming foundation ahead of CS 111 (Program Design I) and engineering calculus at UIC this fall.
 * **Engineering Tools:** Learning how to write scripts that can automate data analysis, parse sensor inputs, and handle physics math for mechanical engineering/robotics applications.
